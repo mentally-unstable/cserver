@@ -1,0 +1,4 @@
+*.o
+*.dsYM
+.DS_Store
+
